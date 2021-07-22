@@ -15,6 +15,7 @@ Project: <link href="card.html" rel="import"/>Animal Trading Cards
 </ul>
 <strong>Part 3: Intro to Python</strong>
 
+
 Demonstrate your Python skills by coding a simple version of an old-fashioned text-based adventure game. 
 <ul>
 Project 1: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Text-Based-Game/adventure_game.py" target="_blank">Adventure Game</a>
