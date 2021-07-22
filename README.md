@@ -11,7 +11,7 @@ In this lesson, we'll be exploring how to create web pages—and, along the way,
 
 For the project, you'll use HTML and CSS and be provided with a design prototype that needs to be translated to an actual, functional website. This is a common workflow for front-end web developers.
 
-Project: <link href="file:///Users/aljoharaabdullah/Desktop/Intro%20to%20Programming%20Nanodegree/animal-trading-cards-master/card.html" rel="import">Animal Trading Cards</link>
+Project: <link href="file:///Users/aljoharaabdullah/Desktop/Intro%20to%20Programming%20Nanodegree/animal-trading-cards-master/card.html" rel="import"/>Animal Trading Cards
 
 <strong>Part 3: Intro to Python</strong>
 
