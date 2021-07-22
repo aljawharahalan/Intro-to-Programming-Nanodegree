@@ -22,4 +22,4 @@ Project: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodeg
 <strong>Part 4: Intro to JavaScript</strong>
 
 You’ll build a single-page web app in JavaScript where the user can create artistic designs on a customizable canvas.
-Project: <a href="file:///Users/aljoharaabdullah/Desktop/Intro%20to%20Programming%20Nanodegree/project-pixel-art-maker-starter-master/index.html" target="_blank">Pixel Art Maker</a>
+Project:<a href="file:///Users/aljoharaabdullah/Desktop/Intro%20to%20Programming%20Nanodegree/project-pixel-art-maker-starter-master/index.html"target="_blank">Pixel Art Maker</a>
