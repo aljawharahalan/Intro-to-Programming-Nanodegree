@@ -18,7 +18,7 @@ Demonstrate your Python skills by coding a simple version of an old-fashioned te
 <li>Project 1: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Text-Based-Game/adventure_game.py" target="_blank">Adventure Game</a></li>
 
 In this project, you'll apply your Python and object-oriented programming skills to build a program that plays the game of Rock Paper Scissors.
-<li>Project 2: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Rock-Paper-Scissors/Rock_Paper_Scissors.py" target="_blank">Rock Paper Scissors</a></li>
+<li>Project 2: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Rock-Paper-Scissors/Rock_Paper_Scissors.py" target="_blank">Rock Paper Scissors</a></li><br>
 
 <strong>Part 4: Intro to JavaScript</strong>
 
