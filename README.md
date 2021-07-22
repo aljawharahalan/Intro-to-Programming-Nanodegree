@@ -12,9 +12,9 @@ In this lesson, we'll be exploring how to create web pages—and, along the way,
 For the project, you'll use HTML and CSS and be provided with a design prototype that needs to be translated to an actual, functional website. This is a common workflow for front-end web developers.
 <li>Project: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Web-Based-Trading-Card/card.html">Animal Trading Cards</a></li>
 <br>
-<strong>Part 3: Intro to Python</strong>
-<br>
-Demonstrate your Python skills by coding a simple version of an old-fashioned text-based adventure game. 
+<strong>Part 3: Intro to Python</strong> <br>
+
+Demonstrate your Python skills by coding a simple version of an old-fashioned text-based adventure game.<br>
 <li>Project 1: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Text-Based-Game/adventure_game.py" target="_blank">Adventure Game</a></li><br>
 
 In this project, you'll apply your Python and object-oriented programming skills to build a program that plays the game of Rock Paper Scissors.
