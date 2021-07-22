@@ -13,7 +13,7 @@ For the project, you'll use HTML and CSS and be provided with a design prototype
 <li>Project: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Web-Based-Trading-Card/card.html">Animal Trading Cards</a></li>
 <br>
 <strong>Part 3: Intro to Python</strong>
-
+<br>
 Demonstrate your Python skills by coding a simple version of an old-fashioned text-based adventure game. 
 <li>Project 1: <a href="https://github.com/aljawharahalan/Intro-to-Programming-Nanodegree/blob/main/Text-Based-Game/adventure_game.py" target="_blank">Adventure Game</a></li><br>
 
